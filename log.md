@@ -21,7 +21,7 @@ I finished the website I've been doing.
 
 ✔ Media Query Breakpoints are mind opening
 
-All are applied in the website.
+All are applied in the website. I'm so happy to understand and apply at the same time.
 
 **Thoughts:** CSS can be fun and also complicated but interesting especially with z-index and stack order.
 
