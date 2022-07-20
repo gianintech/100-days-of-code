@@ -7,3 +7,19 @@
 **Thoughts:** I'm starting to get back on track with HTML and CSS. I'm pumped up to move to JS.
 
 **Link to work:** https://twitter.com/gianintech/status/1549445960186892294?s=20&t=O5T0GcuZBgCCZ75G-X9C_g
+
+### Day 2: July 20, 2022
+
+**Today's Progress**:
+I finished the website I've been doing.
+
+✔ Learned Bootstrap Carousels
+✔ Got a grasp of Z-index and CSS stack order
+✔ Understood how to use Bootstrap Cards 
+✔ Media Query Breakpoints are mind opening
+
+All are applied in the website.
+
+**Thoughts:** CSS can be fun and also complicated but interesting especially with z-index and stack order.
+
+**Link to work:** 
