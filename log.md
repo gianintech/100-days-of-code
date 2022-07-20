@@ -14,8 +14,11 @@
 I finished the website I've been doing.
 
 ✔ Learned Bootstrap Carousels
+
 ✔ Got a grasp of Z-index and CSS stack order
+
 ✔ Understood how to use Bootstrap Cards 
+
 ✔ Media Query Breakpoints are mind opening
 
 All are applied in the website.
