@@ -25,4 +25,4 @@ All are applied in the website. I'm so happy to understand and apply at the same
 
 **Thoughts:** CSS can be fun and also complicated but interesting especially with z-index and stack order.
 
-**Link to work:** 
+**Link to work:** https://gianlouiedabu.github.io/tindog/
