@@ -26,3 +26,21 @@ All are applied in the website. I'm so happy to understand and apply at the same
 **Thoughts:** CSS can be fun and also complicated but interesting especially with z-index and stack order.
 
 **Link to work:** https://gianlouiedabu.github.io/tindog/
+
+### Day 3: July 21, 2022
+**Today's Progress**:
+Refactored the website the I finished on Day of #100DaysOfCode
+
+✔ Code Refactoring
+
+✔ CSS Combining Selectors
+
+✔ CSS Selector Priority
+
+✔ Code Refactoring is not just removing repitition, the priority should be readability and modularity.
+
+All are applied in the website.
+
+**Thoughts:** The readable and modular the code, the better.
+
+**Link to work:** https://gianlouiedabu.github.io/tindog/
