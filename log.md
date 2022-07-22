@@ -50,7 +50,9 @@ All are applied in the website.
 I practiced my design skills by making a web design on Canva. I never knew Canva can do that.
 
 ✔ Color Theory
+
 ✔ Typography
+
 ✔ UI and UX
 
 **Thoughts:** I'm amazed with how amazing Canva was, I never expected it to be this good. But overall, I'm getting better in designing.
