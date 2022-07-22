@@ -44,3 +44,15 @@ All are applied in the website.
 **Thoughts:** The readable and modular the code, the better.
 
 **Link to work:** https://gianlouiedabu.github.io/tindog/
+
+### Day 4: July 22, 2022
+**Today's Progress**:
+I practiced my design skills by making a web design on Canva. I never knew Canva can do that.
+
+✔ Color Theory
+✔ Typography
+✔ UI and UX
+
+**Thoughts:** I'm amazed with how amazing Canva was, I never expected it to be this good. But overall, I'm getting better in designing.
+
+**Link to work:** https://gianintech.my.canva.site/
