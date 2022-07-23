@@ -58,3 +58,26 @@ I practiced my design skills by making a web design on Canva. I never knew Canva
 **Thoughts:** I'm amazed with how amazing Canva was, I never expected it to be this good. But overall, I'm getting better in designing.
 
 **Link to work:** https://gianintech.my.canva.site/
+
+### Day 5: July 23, 2022
+**Today's Progress**:
+I learned more about some keywords in Javascript such as alert, prompt, and declaring variables and assigning value.
+I managed to solve the quiz with the solution that came in mind.
+The quiz was about switching the value of 2 variables.
+
+✔ Introduction to Javascript
+
+✔ Javascript Alerts
+
+✔ Data Types
+
+✔ Javascript Variables
+
+✔ Javascript Variables Exercise
+
+**Thoughts:** 
+It's quite confusing at first, but since I already have experience in programming it just came naturally for me.
+
+
+
+
