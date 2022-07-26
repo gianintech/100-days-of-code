@@ -81,7 +81,7 @@ It's quite confusing at first, but since I already have experience in programmin
 
 ### JULY 24, 2022 (SUNDAY) - RESTDAY
 
-### Day 6: July 25, 2022
+### Day 6: July 25, 2022 - Monday
 **Today's Progress**:
 
 ☑️ String Concatenation
@@ -99,6 +99,17 @@ It's quite confusing at first, but since I already have experience in programmin
 **Thoughts:** 
 Javascript is amazing! I'm enjoying it so far.
 
+### Day 7: July 26, 2022 - Tuesday
+**Today's Progress**:
+
+☑️ Was able to get the logic of 3 types of functions in Javascript
+☑️ Was able to create a simple program with it.
+☑️ Able to finish Introduction to Javascript
+
+**Thoughts:** 
+Javascript is amazing...but it hard in the head sometimes.
+While I was so indulged in learning, I forgot I was at the end of the lesson, and I'm moving to Intermediate Javascript from Introduction to Javascript.
+Let's f-in go.
 
 
 
