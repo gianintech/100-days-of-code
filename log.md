@@ -84,13 +84,16 @@ It's quite confusing at first, but since I already have experience in programmin
 ### Day 6: July 25, 2022
 **Today's Progress**:
 
-🇵🇭
-
 ☑️ String Concatenation
+
 ☑️ String Lengths and Retrieving the Number of Characters
+
 ☑️ Slicing and Extracting Parts of a String
+
 ☑️ Math and Modulo
+
 ☑️ ++, --, +=, -=
+
 ☑️ Creating and Calling Functions
 
 **Thoughts:** 
