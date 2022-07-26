@@ -79,5 +79,27 @@ The quiz was about switching the value of 2 variables.
 It's quite confusing at first, but since I already have experience in programming it just came naturally for me.
 
 
+### JULY 24, 2022 (SUNDAY) - RESTDAY
+
+### Day 6: July 25, 2022
+**Today's Progress**:
+
+🇵🇭
+
+☑️ String Concatenation
+☑️ String Lengths and Retrieving the Number of Characters
+☑️ Slicing and Extracting Parts of a String
+☑️ Math and Modulo
+☑️ ++, --, +=, -=
+☑️ Creating and Calling Functions
+
+**Thoughts:** 
+Javascript is amazing! I'm enjoying it so far.
+
+
+
+
+
+
 
 
