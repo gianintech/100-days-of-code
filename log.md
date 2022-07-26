@@ -103,7 +103,9 @@ Javascript is amazing! I'm enjoying it so far.
 **Today's Progress**:
 
 ☑️ Was able to get the logic of 3 types of functions in Javascript
+
 ☑️ Was able to create a simple program with it.
+
 ☑️ Able to finish Introduction to Javascript
 
 **Thoughts:** 
