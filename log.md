@@ -113,6 +113,32 @@ Javascript is amazing...but it hard in the head sometimes.
 While I was so indulged in learning, I forgot I was at the end of the lesson, and I'm moving to Intermediate Javascript from Introduction to Javascript.
 Let's f-in go.
 
+### Day 8: July 27, 2022 - Wednesday
+**Today's Progress**:
+
+☑️ Control Statements
+
+☑️ BMI Calculator
+
+☑️ Made a code that tells me if the year is a leap year or not
+
+
+**Thoughts:** 
+I'm in the point where I have to think through a solution for me to solve the problem. 
+
+### Day 9: July 28, 2022 - Thursday
+**Today's Progress**:
+
+☑️ Done with the Intermediate Javascript Lesson
+
+☑️ Able to use array in various situations
+
+☑️ Able to use loops to manipulate array
+
+
+**Thoughts:** 
+It feels so good to create a fibonacci generator on your own!
+
 
 
 
