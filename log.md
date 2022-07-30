@@ -139,7 +139,7 @@ I'm in the point where I have to think through a solution for me to solve the pr
 **Thoughts:** 
 It feels so good to create a fibonacci generator on your own!
 
-### Day 10: July 30, 2022 - Friday
+### Day 10: July 30, 2022 - Saturday
 **Today's Progress**:
 
 ☑️ Done with learning basics of Document Object Model
