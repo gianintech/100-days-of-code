@@ -139,7 +139,19 @@ I'm in the point where I have to think through a solution for me to solve the pr
 **Thoughts:** 
 It feels so good to create a fibonacci generator on your own!
 
+### Day 10: July 30, 2022 - Friday
+**Today's Progress**:
 
+☑️ Done with learning basics of Document Object Model
+
+☑️ Basically learned how to know connect HTML, CSS, using Javascript.
+
+- not really connecting but manipulating elements, changing styles, using Javascript.
+
+
+**Thoughts:** 
+It feels good to be at this level, I never knew to reach this. I feel proud of myself. 
+I'm grateful with tech twitter, it makes me feel that I belong with what I'm pursuing!
 
 
 
