@@ -153,7 +153,16 @@ It feels so good to create a fibonacci generator on your own!
 It feels good to be at this level, I never knew to reach this. I feel proud of myself. 
 I'm grateful with tech twitter, it makes me feel that I belong with what I'm pursuing!
 
+### Day 11: August 1, 2022 - Monday
+**Today's Progress**:
 
+☑️ Done with Dicee Game
+
+☑️ Created my first basic game using Javascript!
+
+**Thoughts:** 
+💭 Manipulated elements using Javascript and was able to make it work the way I want it! 
+😁 So happy for this achievement, I was able to make a game (even though it's easy to do) this is my first!
 
 
 
