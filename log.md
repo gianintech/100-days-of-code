@@ -178,5 +178,7 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 ☑️ Integrated an audio for Drum Kit, and tweaked the CSS a bit.
 
 **Thoughts:** 
+
 💭 Second application that I'm building using Javascript. I hope it goes well.
+
 😁 I'm feeling ecstatic because little by little I can understand Javascript deeper with every lesson and mini-projects I'm having.
