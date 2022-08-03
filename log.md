@@ -165,4 +165,18 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 😁 So happy for this achievement, I was able to make a game (even though it's easy to do) this is my first!
 
 
+### August 2, 2022 - Tuesday
+- Errands day and had to finish a project for my freelance job.
 
+### Day 12: August 3, 2022 - Wednesday
+**Today's Progress**:
+
+☑️ Started making a Drum Kit App using Javascript
+
+☑️ Adding eventListeners, using Higher Order Functions and Passing Function Arguments
+
+☑️ Integrated an audio for Drum Kit, and tweaked the CSS a bit.
+
+**Thoughts:** 
+💭 Second application that I'm building using Javascript. I hope it goes well.
+😁 I'm feeling ecstatic because little by little I can understand Javascript deeper with every lesson and mini-projects I'm having.
