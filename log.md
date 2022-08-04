@@ -192,7 +192,7 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 ☑️ Able to understand and create Constructor Functions
 
 ☑️ Finished the Drum Kit App
-- integrated keypresses and button clicks as eventListeners
+- used keydown and click as eventListeners + simple animation
 
 **Thoughts:** 
 
