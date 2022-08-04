@@ -162,6 +162,7 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 
 **Thoughts:** 
 💭 Manipulated elements using Javascript and was able to make it work the way I want it! 
+
 😁 So happy for this achievement, I was able to make a game (even though it's easy to do) this is my first!
 
 
@@ -182,3 +183,20 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 💭 Second application that I'm building using Javascript. I hope it goes well.
 
 😁 I'm feeling ecstatic because little by little I can understand Javascript deeper with every lesson and mini-projects I'm having.
+
+### Day 13: August 4, 2022 - Thursday
+**Today's Progress**:
+
+☑️ Able to understand and apply objects, methods, and dot notation
+
+☑️ Able to understand and create Constructor Functions
+
+☑️ Finished the Drum Kit App
+- integrated keypresses and button clicks as eventListeners
+
+**Thoughts:** 
+
+💭 Second application I built using Javascript
+
+😁 The sense of achievement even though I don't full understand some concepts.
+   I was able to understand how the application works even with newly introduced areas in Javascript.
