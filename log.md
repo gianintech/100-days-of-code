@@ -200,3 +200,22 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 
 😁 The sense of achievement even though I don't full understand some concepts.
    I was able to understand how the application works even with newly introduced areas in Javascript.
+ 
+### August 5, 2022 - Friday
+- had to take a break, my freelance job was pretty exhausting
+
+### Day 14: August 6, 2022 - Saturday
+**Today's Progress**:
+
+☑️ Understood the concept of jQuery
+
+☑️ Selecting, manipulating, adding Event Listeners, adding and removing elements, and website animations using jQuery.
+
+
+**Thoughts:** 
+
+💭 First Javascript framework that I studied.
+
+💭 It's feels so simple to code Javascript but with a shorter version of it.
+
+😁 It feels great to learn and understand things that are happening inside a code compared to when I just knew of HTML and CSS.
