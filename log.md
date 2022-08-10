@@ -219,3 +219,57 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 💭 It's feels so simple to code Javascript but with a shorter version of it.
 
 😁 It feels great to learn and understand things that are happening inside a code compared to when I just knew of HTML and CSS.
+
+### Day 15: August 8, 2022 - Monday
+**Today's Progress**:
+
+💻Coding Simon Game
+- I'm building a game called "Simon Game" using Javascript and jQuery. 
+
+✅ Added pattern sequence
+
+✅ Added and manipulated elements 
+
+✅ Created a function that checks which button is pressed
+
+✅ Added sounds to button clicks
+
+✅ Added animations to user clicks
+
+✅ Added "start game" trigger
+
+☑️ I'm quite stuck...so I'll rest for now and continue later.
+
+**Thoughts:** 
+
+💭 I never imagined I'll be writing code like this when I first started this journey.
+
+### Day 16: August 9, 2022 - Tuesday
+
+**Today's Progress**:
+💭 I spent the day tinkering of what I'm doing wrong and doing trial and error on my game. I'm still stuck on this point of time.
+
+### Day 17: August 10, 2022 - Wednesday
+**Today's Progress**:
+
+💻Coded Simon Game
+- I'm built a game called "Simon Game" using Javascript and jQuery. 
+- Check it out here: https://gianintech.github.io/simongame/
+
+✅Triggers when to start
+
+✅Shows your level
+
+✅Detects when it's game over
+
+✅You can play again after failure to complete
+
+
+**Thoughts:** 
+
+💭 Happy I was able to finish the project, also I didn't do it on my own. With a little bit of research and checking of resources I was able to do it!
+
+
+
+
+
