@@ -284,6 +284,17 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 
 💭 It was nerve wrecking but I did it anyway.
 
+### Day 19: August 12, 2022 - Friday
+**Today's Progress**:
+
+✅Introduction and Installation of Node JS
+
+✅Node REPL
+
+✅Using Native Node Modules 
+
+✅Using NPM and Installing External Modules
+
 
 
 
