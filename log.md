@@ -269,6 +269,20 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 
 💭 Happy I was able to finish the project, also I didn't do it on my own. With a little bit of research and checking of resources I was able to do it!
 
+### Day 18: August 11, 2022 - Thursday
+**Today's Progress**:
+
+✅Learned some basics of Unix Command Line
+
+✅Command Line techniques and Directory Navigation
+
+✅Creating, Opening, and Removing Files through the Command Line
+
+✅Introduction to Backend Development
+
+✅Hosted my 1st Twitter Space (Tech & Life: Tech & Life: Why Did You Become a Dev? Ends in few minutes) and 63 people tuned in.
+
+💭 It was nerve wrecking but I did it anyway.
 
 
 
