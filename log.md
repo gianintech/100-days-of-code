@@ -295,6 +295,16 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 
 ✅Using NPM and Installing External Modules
 
+### Day 20: August 15, 2022 - Monday
+**Today's Progress**:
+
+✅
+
+✅
+
+✅
+
+✅
 
 
 
