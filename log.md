@@ -298,13 +298,17 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 ### Day 20: August 15, 2022 - Monday
 **Today's Progress**:
 
-✅
+✅Used Express JS to create a server.
 
-✅
+✅Handling Req & Res: GET
 
-✅
+✅Routes
 
-✅
+✅Created a basic calculator and BMI calculator to apply what I learned.
+
+💭Front end development was amazing in itself, but having grasp of what is also possible in the back end leads me to wonder, "What if I really become a full stack web developer that can really pull off things not just front end nor back end but both spectrums.
+
+
 
 
 
