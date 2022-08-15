@@ -302,7 +302,7 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 
 ✅Handling Req & Res: GET
 
-✅Routes
+✅Routing, Processing Requests with Body Parser
 
 ✅Created a basic calculator and BMI calculator to apply what I learned.
 
