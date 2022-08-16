@@ -308,7 +308,22 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 
 💭Front end development was amazing in itself, but having grasp of what is also possible in the back end leads me to wonder, "What if I really become a full stack web developer that can really pull off things not just front end nor back end but both spectrums.
 
+### Day 21: August 16, 2022 - Tuesday
+**Today's Progress**:
 
+✅Application Program Interface (API)
+
+✅API Endpoints, Paths and Parameters
+
+✅API Authentication and Postman
+
+✅Better understanding of JSON
+
+✅Making GET request using Node HTTPS Module
+
+✅Parsing and Stringifying JSON
+
+💭 I wish I could've have do more, but I need to finish projects that are deadline soon. So I need to limit my coding and studying for the time being.
 
 
 
