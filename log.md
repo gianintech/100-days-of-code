@@ -13,13 +13,13 @@
 **Today's Progress**:
 I finished the website I've been doing.
 
-✔ Learned Bootstrap Carousels
+✅ Learned Bootstrap Carousels
 
-✔ Got a grasp of Z-index and CSS stack order
+✅ Got a grasp of Z-index and CSS stack order
 
-✔ Understood how to use Bootstrap Cards 
+✅ Understood how to use Bootstrap Cards 
 
-✔ Media Query Breakpoints are mind opening
+✅ Media Query Breakpoints are mind opening
 
 All are applied in the website. I'm so happy to understand and apply at the same time.
 
@@ -31,13 +31,13 @@ All are applied in the website. I'm so happy to understand and apply at the same
 **Today's Progress**:
 Refactored the website the I finished on Day of #100DaysOfCode
 
-✔ Code Refactoring
+✅ Code Refactoring
 
-✔ CSS Combining Selectors
+✅ CSS Combining Selectors
 
-✔ CSS Selector Priority
+✅ CSS Selector Priority
 
-✔ Code Refactoring is not just removing repitition, the priority should be readability and modularity.
+✅ Code Refactoring is not just removing repitition, the priority should be readability and modularity.
 
 All are applied in the website.
 
@@ -49,11 +49,11 @@ All are applied in the website.
 **Today's Progress**:
 I practiced my design skills by making a web design on Canva. I never knew Canva can do that.
 
-✔ Color Theory
+✅ Color Theory
 
-✔ Typography
+✅ Typography
 
-✔ UI and UX
+✅ UI and UX
 
 **Thoughts:** I'm amazed with how amazing Canva was, I never expected it to be this good. But overall, I'm getting better in designing.
 
@@ -65,15 +65,15 @@ I learned more about some keywords in Javascript such as alert, prompt, and decl
 I managed to solve the quiz with the solution that came in mind.
 The quiz was about switching the value of 2 variables.
 
-✔ Introduction to Javascript
+✅ Introduction to Javascript
 
-✔ Javascript Alerts
+✅ Javascript Alerts
 
-✔ Data Types
+✅ Data Types
 
-✔ Javascript Variables
+✅ Javascript Variables
 
-✔ Javascript Variables Exercise
+✅ Javascript Variables Exercise
 
 **Thoughts:** 
 It's quite confusing at first, but since I already have experience in programming it just came naturally for me.
@@ -84,17 +84,17 @@ It's quite confusing at first, but since I already have experience in programmin
 ### Day 6: July 25, 2022 - Monday
 **Today's Progress**:
 
-☑️ String Concatenation
+✅ String Concatenation
 
-☑️ String Lengths and Retrieving the Number of Characters
+✅ String Lengths and Retrieving the Number of Characters
 
-☑️ Slicing and Extracting Parts of a String
+✅ Slicing and Extracting Parts of a String
 
-☑️ Math and Modulo
+✅ Math and Modulo
 
-☑️ ++, --, +=, -=
+✅ ++, --, +=, -=
 
-☑️ Creating and Calling Functions
+✅ Creating and Calling Functions
 
 **Thoughts:** 
 Javascript is amazing! I'm enjoying it so far.
@@ -102,11 +102,11 @@ Javascript is amazing! I'm enjoying it so far.
 ### Day 7: July 26, 2022 - Tuesday
 **Today's Progress**:
 
-☑️ Was able to get the logic of 3 types of functions in Javascript
+✅ Was able to get the logic of 3 types of functions in Javascript
 
-☑️ Was able to create a simple program with it.
+✅ Was able to create a simple program with it.
 
-☑️ Able to finish Introduction to Javascript
+✅ Able to finish Introduction to Javascript
 
 **Thoughts:** 
 Javascript is amazing...but it hard in the head sometimes.
@@ -116,11 +116,11 @@ Let's f-in go.
 ### Day 8: July 27, 2022 - Wednesday
 **Today's Progress**:
 
-☑️ Control Statements
+✅ Control Statements
 
-☑️ BMI Calculator
+✅ BMI Calculator
 
-☑️ Made a code that tells me if the year is a leap year or not
+✅ Made a code that tells me if the year is a leap year or not
 
 
 **Thoughts:** 
@@ -129,11 +129,11 @@ I'm in the point where I have to think through a solution for me to solve the pr
 ### Day 9: July 28, 2022 - Thursday
 **Today's Progress**:
 
-☑️ Done with the Intermediate Javascript Lesson
+✅ Done with the Intermediate Javascript Lesson
 
-☑️ Able to use array in various situations
+✅ Able to use array in various situations
 
-☑️ Able to use loops to manipulate array
+✅ Able to use loops to manipulate array
 
 
 **Thoughts:** 
@@ -142,9 +142,9 @@ It feels so good to create a fibonacci generator on your own!
 ### Day 10: July 30, 2022 - Saturday
 **Today's Progress**:
 
-☑️ Done with learning basics of Document Object Model
+✅ Done with learning basics of Document Object Model
 
-☑️ Basically learned how to know connect HTML, CSS, using Javascript.
+✅ Basically learned how to know connect HTML, CSS, using Javascript.
 
 - not really connecting but manipulating elements, changing styles, using Javascript.
 
@@ -156,9 +156,9 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 ### Day 11: August 1, 2022 - Monday
 **Today's Progress**:
 
-☑️ Done with Dicee Game
+✅ Done with Dicee Game
 
-☑️ Created my first basic game using Javascript!
+✅ Created my first basic game using Javascript!
 
 **Thoughts:** 
 💭 Manipulated elements using Javascript and was able to make it work the way I want it! 
@@ -172,11 +172,11 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 ### Day 12: August 3, 2022 - Wednesday
 **Today's Progress**:
 
-☑️ Started making a Drum Kit App using Javascript
+✅ Started making a Drum Kit App using Javascript
 
-☑️ Adding eventListeners, using Higher Order Functions and Passing Function Arguments
+✅ Adding eventListeners, using Higher Order Functions and Passing Function Arguments
 
-☑️ Integrated an audio for Drum Kit, and tweaked the CSS a bit.
+✅ Integrated an audio for Drum Kit, and tweaked the CSS a bit.
 
 **Thoughts:** 
 
@@ -187,11 +187,11 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 ### Day 13: August 4, 2022 - Thursday
 **Today's Progress**:
 
-☑️ Able to understand and apply objects, methods, and dot notation
+✅ Able to understand and apply objects, methods, and dot notation
 
-☑️ Able to understand and create Constructor Functions
+✅ Able to understand and create Constructor Functions
 
-☑️ Finished the Drum Kit App
+✅ Finished the Drum Kit App
 - used keydown and click as eventListeners + simple animation
 
 **Thoughts:** 
@@ -207,9 +207,9 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 ### Day 14: August 6, 2022 - Saturday
 **Today's Progress**:
 
-☑️ Understood the concept of jQuery
+✅ Understood the concept of jQuery
 
-☑️ Selecting, manipulating, adding Event Listeners, adding and removing elements, and website animations using jQuery.
+✅ Selecting, manipulating, adding Event Listeners, adding and removing elements, and website animations using jQuery.
 
 
 **Thoughts:** 
@@ -238,7 +238,7 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 
 ✅ Added "start game" trigger
 
-☑️ I'm quite stuck...so I'll rest for now and continue later.
+✅ I'm quite stuck...so I'll rest for now and continue later.
 
 **Thoughts:** 
 
@@ -329,6 +329,7 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 **Today's Progress**:
 
 ✅Using Express to Render a Website with Live API Data
+
 ✅Using Body Parser to Parse POST Requests to the Server
 
 💭 I haven't done much coding/studying today, because I need to finish a project with my current job. 
