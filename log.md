@@ -325,5 +325,11 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 
 💭 I wish I could've have do more, but I need to finish projects that are deadline soon. So I need to limit my coding and studying for the time being.
 
+### Day 22: August 17, 2022 - Wednesday
+**Today's Progress**:
 
+✅Using Express to Render a Website with Live API Data
+✅Using Body Parser to Parse POST Requests to the Server
+
+💭 I haven't done much coding/studying today, because I need to finish a project with my current job. 
 
