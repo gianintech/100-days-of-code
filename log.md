@@ -334,3 +334,9 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 
 💭 I haven't done much coding/studying today, because I need to finish a project with my current job. 
 
+### Day 23: August 18, 2022 - Saturday
+**Today's Progress**:
+
+✅ Since I paused for quite some time, I just refreshed myself from what I learned on Day 18.
+
+
