@@ -339,4 +339,8 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 
 ✅ Since I paused for quite some time, I just refreshed myself from what I learned on Day 18.
 
+### Day 24: September 9, 2022 - Friday
+**Today's Progress**:
+
+✅ After being sick for a few days, I was able to code again and tried to use open weather map API again.
 
