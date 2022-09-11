@@ -344,3 +344,7 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 
 ✅ After being sick for a few days, I was able to code again and tried to use open weather map API again.
 
+### Day 25: September 11, 2022 - Sunday
+**Today's Progress**:
+
+✅ Created the front-end of the newsletter I'm doing with mailchimp API.
