@@ -348,3 +348,13 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 **Today's Progress**:
 
 ✅ Created the front-end of the newsletter I'm doing with mailchimp API.
+
+### Day 26: September 12, 2022 - Monday
+**Today's Progress**:
+
+✅ Done with the Newsletter App using Mailchimp API
+✅ Redesigned frontend with bootstrap.
+✅ Newsletter includes success and failure pages.
+
+Tomorrow, I will put it live.
+
