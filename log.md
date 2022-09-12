@@ -353,7 +353,9 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 **Today's Progress**:
 
 ✅ Done with the Newsletter App using Mailchimp API
+
 ✅ Redesigned frontend with bootstrap.
+
 ✅ Newsletter includes success and failure pages.
 
 Tomorrow, I will put it live.
