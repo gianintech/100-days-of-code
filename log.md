@@ -365,6 +365,6 @@ Tomorrow, I will put it live.
 
 ✅ Deployed the newsletter app using Render.com
 
-✅ Tried to use .env in using api key
+✅ Used .env in using api key
 
 Check it live: https://newsletter-ii3a.onrender.com/
