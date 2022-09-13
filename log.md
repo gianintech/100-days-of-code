@@ -360,3 +360,11 @@ I'm grateful with tech twitter, it makes me feel that I belong with what I'm pur
 
 Tomorrow, I will put it live.
 
+### Day 27: September 13, 2022 - Tuesday
+**Today's Progress**:
+
+✅ Deployed the newsletter app using Render.com
+
+✅ Tried to use .env in using api key
+
+Check it live: https://newsletter-ii3a.onrender.com/
