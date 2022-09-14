@@ -368,3 +368,15 @@ Tomorrow, I will put it live.
 ✅ Used .env in using api key
 
 Check it live: https://newsletter-ii3a.onrender.com/
+
+### Day 28: September 14, 2022 - Wednesday
+**Today's Progress**:
+
+✅ Git and Github
+
+✅ Version Control Using Git and the Command Line
+
+✅ GitHub and Remote Repositories
+
+
+
