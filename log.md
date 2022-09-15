@@ -378,5 +378,15 @@ Check it live: https://newsletter-ii3a.onrender.com/
 
 ✅ GitHub and Remote Repositories
 
+### Day 29: September 15, 2022 - Thursday
+**Today's Progress**:
+
+✅ .gitignore
+
+✅ Cloning
+
+✅ Branching and Merging
+
+✅ Forking and Pull Requests
 
 
