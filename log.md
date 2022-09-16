@@ -389,4 +389,15 @@ Check it live: https://newsletter-ii3a.onrender.com/
 
 ✅ Forking and Pull Requests
 
+### Day 30: September 16, 2022 - Friday
+**Today's Progress**:
+
+✅ Took a break with the course, and started to review previous lessons for long term retention.
+
+✅ Did some frontend design mostly, reviewing HTML + CSS.
+
+✅ Started using Figma before Adobe completely get his hands on it. 
+
+To be honest, I'm really enjoying more of the frontend rather than the backend side of things.
+
 
