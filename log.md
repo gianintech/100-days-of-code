@@ -400,4 +400,16 @@ Check it live: https://newsletter-ii3a.onrender.com/
 
 To be honest, I'm really enjoying more of the frontend rather than the backend side of things.
 
+### Day 31: September 18, 2022 - Sunday
+**Today's Progress**:
+
+This is me coding-chilling while watching netflix. 
+I think it's a bit embarassing to even tweet this but this is me forgetting how to put divs side-by-side. HAHAHA!
+
+I'm out enjoying the weekend so I'm not really rushing. 
+Will be continue tomorrow!
+
+
+
+
 
