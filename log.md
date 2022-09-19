@@ -409,7 +409,11 @@ I think it's a bit embarassing to even tweet this but this is me forgetting how 
 I'm out enjoying the weekend so I'm not really rushing. 
 Will be continue tomorrow!
 
+### Day 32: September 19, 2022 - Monday
+**Today's Progress**:
 
+✅ Improved frontend with the newsletter app.
+🗒️ Will try to use bootstrap, as this is just full vanilla CSS.
 
-
-
+Enjoying small steps of consistency compared to long strides of high intensity.
+I'm taking my time since, I'm juggling things with other stuff as well.
