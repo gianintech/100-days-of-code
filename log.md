@@ -413,6 +413,7 @@ Will be continue tomorrow!
 **Today's Progress**:
 
 ✅ Improved frontend with the newsletter app.
+
 🗒️ Will try to use bootstrap, as this is just full vanilla CSS.
 
 Enjoying small steps of consistency compared to long strides of high intensity.
