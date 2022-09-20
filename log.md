@@ -418,3 +418,16 @@ Will be continue tomorrow!
 
 Enjoying small steps of consistency compared to long strides of high intensity.
 I'm taking my time since, I'm juggling things with other stuff as well.
+
+### Day 33: September 20, 2022 - Tuesday
+**Today's Progress**:
+
+✅ Improved frontend of the newsletter app.
+
+✅ Changed the color scheme.
+
+✅ Used a different typeface.
+
+✅ Bootstrap: Form and Button
+
+
