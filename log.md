@@ -430,4 +430,13 @@ I'm taking my time since, I'm juggling things with other stuff as well.
 
 ✅ Bootstrap: Form and Button
 
+### Day 34: September 22, 2022 - Thursday
+**Today's Progress**:
+
+✅ Got back with the tutorial.
+
+✅ Understood the importance of templates in JS
+
+✅ Created my first EJS template
+
 
